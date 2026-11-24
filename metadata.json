@@ -1,0 +1,10 @@
+{
+  "name": "Remix Jahidul Translate",
+  "description": "English to Bangla and Bangla to English translator with vocabulary flashcards, 12 English tenses guide, history, and favorites.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
